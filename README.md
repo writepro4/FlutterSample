@@ -1,6 +1,6 @@
 # flutter_sample
 
-A new Flutter application.
+플러터 예제 코드 모음
 
 ## Getting Started
 
